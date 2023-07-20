@@ -1,0 +1,6 @@
+paylaştığım .bacpac dosyasını bilgisayarınızda açabilmek için SQL Management studio nun ve sql kurulumlarının pcnizde olması gerekiyor. Bunları nasıl kuracağınızı internetten bulabilirsiniz. Daha sonra kurduktan sonra SQL Management Studio üzerinden "Import Data-Tier" ifadesiyle bacpac dosyasını serverınıza import edeceksiniz. Bunun da nasıl yapılacağını internetten bulabilirsiniz. Son olarak visual studio üzerindeki kodların sorunsuz çalışabilmesi için, proje içerisindeki app.config dosyası içerisinde bulunan
+
+connectionString="Data Source=LAPTOP-83AA7S0U\SQLEXPRESS;Initial Catalog=KafeOtomasyonu_;Integrated Security=True"
+
+
+kısmındaki Data Source ifadesini kendi Management Studio'nuzdan erişebileceğiniz Server adresinizi yazmanız gerekiyor. Server adresinize nereden ulaşacağınızı da internetten bulabilirsiniz.
