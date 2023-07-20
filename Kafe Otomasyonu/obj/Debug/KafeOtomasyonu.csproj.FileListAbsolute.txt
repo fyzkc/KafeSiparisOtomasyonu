@@ -1,0 +1,62 @@
+C:\Users\Feyza\source\repos\KafeOtomasyonu\bin\Debug\KafeOtomasyonu.exe.config
+C:\Users\Feyza\source\repos\KafeOtomasyonu\bin\Debug\KafeOtomasyonu.exe
+C:\Users\Feyza\source\repos\KafeOtomasyonu\bin\Debug\KafeOtomasyonu.pdb
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.Properties.Resources.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.exe
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.pdb
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.AdminForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.MasalarForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.BurgerlerForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.IzgaralarForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.MakarnalarForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.MenuForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.PizzalarForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.SalatalarForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.SandwichlerForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.SogukIceceklerForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.TostlarForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.WraplerForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.KahvaltilarForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.TatlilarForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.SicakIceceklerForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.KasaForm.resources
+C:\Users\Feyza\source\repos\KafeOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Feyza\source\repos\KafeOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Feyza\source\repos\KafeOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Feyza\source\repos\KafeOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.CopyComplete
+C:\Users\Feyza\source\repos\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.Migrations.Initial.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\bin\Debug\KafeOtomasyonu.exe.config
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\bin\Debug\KafeOtomasyonu.exe
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\bin\Debug\KafeOtomasyonu.pdb
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.AdminForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.BurgerlerForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.IzgaralarForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.KahvaltilarForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.KasaForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.MakarnalarForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.MasalarForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.MenuForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.Migrations.Initial.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.PizzalarForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.Properties.Resources.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.SalatalarForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.SandwichlerForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.SogukIceceklerForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.SicakIceceklerForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.TatlilarForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.TostlarForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.WraplerForm.resources
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.GenerateResource.cache
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.csproj.CopyComplete
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.exe
+C:\Users\kocfe\OneDrive - Bolu Abant İzzet Baysal Üniversitesi\Masaüstü\Feyza\Projelerim\KafeOtomasyonu\KafeOtomasyonu\obj\Debug\KafeOtomasyonu.pdb
